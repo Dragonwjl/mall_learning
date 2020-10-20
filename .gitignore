@@ -14,3 +14,11 @@ target/
 /.idea/
 *.iml
 *.ipr
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+
+
+out
+gen
